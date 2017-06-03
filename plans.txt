@@ -1,0 +1,13 @@
+switchboard dash slides in from left of screen
+
+number of different graphs which are available + settings screen
+
+possible graphs:
+	day by day sleep over days
+	time arrived at work over days
+
+graphing API: MPAndroidChart
+
+each graph screen will just be a graph view
+
+You’ve taken your first step into a larger world, @TrashPanda42. 
